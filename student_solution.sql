@@ -1,5 +1,5 @@
 UPDATE Student
-SET DepartmentID = 102
+SET DepartmentID = 103
 WHERE StudentName = 'Karthik';
 
 DELETE FROM Student
